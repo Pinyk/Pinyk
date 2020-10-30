@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Pinyk/Pinyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<!-- 
 ![Pinyk's Github Stats](https://github-readme-stats.vercel.app/api?username=Pinyk&hide=[%22issues%22]&show_icons=true)
+-->
